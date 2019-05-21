@@ -25,6 +25,9 @@ Route::get('/create_villages', function () {
 Route::get('/villages', function () {
     return view('villages.index');
 });
+Route::get('/clients', function () {
+    return view('clients.index');
+});
 Auth::routes();
 Route::get('/home', 'HomeController@index')->name ('home');
 Route::resource('village', 'VillageController');

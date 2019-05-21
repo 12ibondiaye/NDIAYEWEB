@@ -26,6 +26,12 @@
           </a>
         </li>
         <li>
+          <a href="./icons.html">
+            <i class="tim-icons icon-atom"></i>
+            <p>Gestion clients</p>
+          </a>
+        </li>
+        <li>
           <a href="./villages">
             <i class="tim-icons icon-pin"></i>
             <p>Gestion villages</p>

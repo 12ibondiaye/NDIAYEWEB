@@ -15,6 +15,7 @@ class VillageController extends Controller
     public function index()
     {
         return view('villages.index');
+        return view('clients.index');
     }
 
     /**
