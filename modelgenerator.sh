@@ -1,4 +1,3 @@
-#!/bin/bash
 php artisan make:model Agent
 php artisan make:model Client
 php artisan make:model Role
